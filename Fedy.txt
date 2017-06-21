@@ -1,0 +1,18 @@
+Apps 
+	Google Chrome
+	Skype
+	Spotify
+	Syncthing
+	Telegram
+Dev
+    PyCharm Community Edition
+    Sublime Text 3
+Tweaks
+    Better Font Rendering
+    Disk I/O Scheduler
+    Fancy bash prompt
+
+Utilities
+    Archive Formats
+    Microsoft TruType core fonts
+    Multimedia Codecs
