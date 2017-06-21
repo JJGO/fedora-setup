@@ -13,4 +13,5 @@ Impatience
 'Window Is Ready' Notification Remover
 Dynamic Panel Transparency
 Caffeine
-Clipboard Indicator
+Clipboard Indicatorfe
+Desk Changer
