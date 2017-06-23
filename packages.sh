@@ -60,11 +60,14 @@ sudo dnf groupinstall -y "C Development Tools and Libraries"
 sudo dnf install -y @virtualization
 
 sudo dnf install -y mono-core
+sudo dnf install -y mono-devel
+sudo dnf install -y mono-locale-extras
+sudo dnf install -y libcurl-devel
 
 ## EDITORS
 sudo dnf install -y vim
 sudo dnf install -y emacs
-sudo dnf install -y nano,
+sudo dnf install -y nano
 
     # Sublime Text
 sudo rpm -v --import https://download.sublimetext.com/sublimehq-rpm-pub.gpg
