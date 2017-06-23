@@ -9,6 +9,7 @@ set -x          # Enable verbosity
 sudo dnf -y copr enable dperson/neovim
 sudo dnf -y copr enable carlgeorge/ripgrep
 sudo dnf -y copr enable baoboa/cmatrix
+sudo dnf -y copr enable rabiny/albert
 
 ### GIT
 sudo dnf install -y git
@@ -35,6 +36,7 @@ sudo dnf install -y rubygems
 sudo dnf install -y rubygem-bundler
 sudo dnf install -y lua
 sudo dnf install -y perl
+sudo dnf install -y perl-LDAP
 sudo dnf install -y java
 sudo dnf install -y scala
 sudo dnf install -y sbt
@@ -47,6 +49,8 @@ sudo dnf install -y golang
 sudo dnf install -y julia
 sudo dnf install -y R
 sudo dnf install -y rust
+
+sudo dnf install -y rpmdevtools
 
 sudo dnf install -y docker
 sudo dnf install -y vagrant
@@ -131,6 +135,7 @@ sudo dnf install -y powerline-fonts
 
 
 ### User GUI programs
+sudo dnf install -y albert                  # Like macOS alfred
 sudo dnf install -y calibre                 # Ebook management tool
 sudo dnf install -y chromium                # Open Source Chrome browser
 sudo dnf install -y gimp                    # Image Editing
