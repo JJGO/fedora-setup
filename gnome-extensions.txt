@@ -16,3 +16,4 @@ Caffeine
 Clipboard Indicator
 Desk Changer
 gTile
+TopIcons Plus
