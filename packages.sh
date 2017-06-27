@@ -226,3 +226,11 @@ plowmod --install
 cd /etc/yum.repos.d/
 sudo wget http://download.opensuse.org/repositories/home:kamilprusko/Fedora_24/home:kamilprusko.repo
 sudo dnf install gnome-pomodoro
+
+
+#Jackett
+mkdir -p "$HOME/bin"
+cd "$HOME/bin"
+wget https://github.com/Jackett/Jackett/releases/download/v0.7.1483/Jackett.Binaries.Mono.tar.gz
+tar -xvf Jackett.Binaries.Mono.tar.gz
+cd
