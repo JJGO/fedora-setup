@@ -17,3 +17,5 @@ Clipboard Indicator
 Desk Changer
 gTile
 TopIcons Plus
+Volume Mixer
+Quick Close in Overview
