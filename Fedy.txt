@@ -1,7 +1,8 @@
-Apps 
+Apps
 	Google Chrome
 	Skype
 	Spotify
+    Steam
 	Syncthing
 	Telegram
 Dev
