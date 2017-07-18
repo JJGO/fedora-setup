@@ -61,7 +61,7 @@ fi
 pyenv global $LATEST_ANACONDA
 
 # Create virtualenv folder
-mkdir ~/.virtualenvs
+mkdir -p ~/.virtualenvs
 
 # Check if pyenv doctor plugin is installed, install otherwise
 if [ ! -d "$(pyenv root)/plugins/pyenv-doctor" ]; then
