@@ -157,6 +157,8 @@ sudo dnf install -y transmission            # Torrent client
 sudo dnf install -y unzip                   # unpack utility
 sudo dnf install -y vlc                     # Media player
 
+sudo dnf install -y okular                  # Pdf viewer
+sudo dnf install -y pdfshuffler             # Pdf Merger/Splitter
 
 ### OTHER
 
