@@ -142,6 +142,7 @@ sudo dnf install -y albert                  # Like macOS alfred
 sudo dnf install -y calibre                 # Ebook management tool
 sudo dnf install -y chromium                # Open Source Chrome browser
 sudo dnf install -y dropbox                 # Dropbox daemon
+sudo dnf install -y filezilla               # FTP client
 sudo dnf install -y gimp                    # Image Editing
 sudo dnf install -y inkscape                # Vectorial Editor
 sudo dnf install -y keepass                 # GUI password manager
