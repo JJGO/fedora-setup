@@ -152,6 +152,7 @@ sudo dnf install -y playonlinux             # Wine Wrapper
 sudo dnf install -y redshift                # Like Flux (yellow light)
 sudo dnf install -y stow                    # Symlink utility
 sudo dnf install -y shutter                 # Screenshot editor
+sudo dnf install -y syncthing               # Syncing tool
 sudo dnf install -y thunderbird             # Email client
 sudo dnf install -y tor                     # Tor ring anomization
 sudo dnf install -y transmission            # Torrent client
