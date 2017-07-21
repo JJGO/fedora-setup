@@ -5,6 +5,7 @@ Flask
 h5py
 howdoi
 jupyter
+jupyterthemes
 matplotlib
 mxnet
 nbconvert
