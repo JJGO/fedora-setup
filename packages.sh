@@ -91,14 +91,16 @@ sudo dnf install -y cmus                    # Terminal music player
 sudo dnf install -y colordiff               # Colored diff
 sudo dnf install -y dos2unix                # Translate newlines between DOS and UNIX
 sudo dnf install -y elinks                  # CLI web browser
+sudo dnf install -y exfat-utils             # Exfat compatibility
 sudo dnf install -y fasd                    # Fasd offers quick access to files and directories
 sudo dnf install -y fdupes                  # CLI duplicate finder
+sudo dnf install -y fuse-exfat              # FUSE for exfat
 sudo dnf install -y graphviz                # Graph visualization software
 sudo dnf install -y hub                     # Perform GitHub actions from the CLI
 sudo dnf install -y htop                    # Display system usage
 sudo dnf install -y ImageMagick             # Good image editing software
 sudo dnf install -y irssi                   # IRC Client
-sudo dnf install -y mediainfo              # Media info for videos
+sudo dnf install -y mediainfo               # Media info for videos
 sudo dnf install -y minicom                 # Serial port communication
 sudo dnf install -y mkvtoolnix              # Mkv tools
 sudo dnf install -y mutt                    # Email Client
@@ -204,6 +206,7 @@ rm -r peco*
 wget https://launchpad.net/veracrypt/trunk/1.19/+download/veracrypt-1.19-setup.tar.bz2
 tar -xvf veracrypt-*
 ./veracrypt-1.19-setup-console-x64
+./veracrypt-1.19-setup-gui-x64
 rm -r veracrypt-*
 
 # Add git-lfs repo
