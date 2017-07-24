@@ -96,6 +96,7 @@ sudo dnf install -y fasd                    # Fasd offers quick access to files 
 sudo dnf install -y fdupes                  # CLI duplicate finder
 sudo dnf install -y fuse-exfat              # FUSE for exfat
 sudo dnf install -y graphviz                # Graph visualization software
+sudo dnf install -y guake                   # Drop down terminal
 sudo dnf install -y hub                     # Perform GitHub actions from the CLI
 sudo dnf install -y htop                    # Display system usage
 sudo dnf install -y ImageMagick             # Good image editing software
@@ -113,6 +114,7 @@ sudo dnf install -y pv                      # Monitor the progress of data throu
 sudo dnf install -y ranger                  # Console file manager with VI key bindings
 sudo dnf install -y reptyr                  # Attach running process to new terminal
 sudo dnf install -y ripgrep                 # Search similar to ag but faster
+sudo dnf install -y terminator              # terminal emulator
 sudo dnf install -y tig                     # text-mode interface for git
 sudo dnf install -y thefuck                 # To correct mistypes in commands
 sudo dnf install -y the_silver_searcher     # Search similar to ack but faster
