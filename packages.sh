@@ -95,6 +95,7 @@ sudo dnf install -y exfat-utils             # Exfat compatibility
 sudo dnf install -y fasd                    # Fasd offers quick access to files and directories
 sudo dnf install -y fdupes                  # CLI duplicate finder
 sudo dnf install -y fuse-exfat              # FUSE for exfat
+sudo dnf install -y fuse-sshfs              # To mount remotes over ssh
 sudo dnf install -y graphviz                # Graph visualization software
 sudo dnf install -y guake                   # Drop down terminal
 sudo dnf install -y hub                     # Perform GitHub actions from the CLI
