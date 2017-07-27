@@ -123,10 +123,9 @@ sudo dnf install -y tmux                    # Terminal multiplexer and server
 sudo dnf install -y trash-cli               # To use OS trash instead of rm forever
 sudo dnf install -y unison240-text          # Sync both ways folders
 sudo dnf install -y youtube-dl              # Download YouTube (and others) from CLI
-
 sudo dnf install -y wine                    # Windows program "emulator"
 sudo dnf install -y winetricks              # Wine addons
-
+sudo dnf install -y workrave                # AntiRSI tool for LINUX
 sudo dnf install -y speedtest-cli           # Speedtest on CLI
 
 ## MISC
