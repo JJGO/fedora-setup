@@ -153,6 +153,7 @@ sudo dnf install -y keepass                 # GUI password manager
 sudo dnf install -y kodi                    # Media center for music, tvshows and movies
 sudo dnf install -y pinta                   # MSPaint on Linux
 sudo dnf install -y playonlinux             # Wine Wrapper
+sudo dnf install -y rambox                  # Messaging and Email service aggregator
 sudo dnf install -y redshift                # Like Flux (yellow light)
 sudo dnf install -y stow                    # Symlink utility
 sudo dnf install -y shutter                 # Screenshot editor
