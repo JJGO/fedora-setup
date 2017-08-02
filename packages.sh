@@ -14,6 +14,7 @@ sudo dnf -y copr enable rabiny/albert
 ### GIT
 sudo dnf install -y git
 sudo dnf install -y git-extras
+sudo dnf install -y gitflow
 
 ### SHELLS
 sudo dnf install -y bash
