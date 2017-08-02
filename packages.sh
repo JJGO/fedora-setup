@@ -98,6 +98,9 @@ sudo dnf install -y elinks                  # CLI web browser
 sudo dnf install -y exfat-utils             # Exfat compatibility
 sudo dnf install -y fasd                    # Fasd offers quick access to files and directories
 sudo dnf install -y fdupes                  # CLI duplicate finder
+sudo dnf install -y ffmpeg                  # Video editing CLI tool
+sudo dnf install -y ffmpeg-libs
+sudo dnf install -y ffmpeg-devel
 sudo dnf install -y fuse-exfat              # FUSE for exfat
 sudo dnf install -y fuse-sshfs              # To mount remotes over ssh
 sudo dnf install -y graphviz                # Graph visualization software
