@@ -58,6 +58,10 @@ sudo dnf install -y vagrant
 sudo dnf groupinstall -y "Development Tools"
 sudo dnf groupinstall -y "C Development Tools and Libraries"
 sudo dnf install -y @virtualization
+    # Control Groups
+sudo dnf install -y libcgroup
+sudo dnf install -y libcgroup-devel
+sudo dnf install -y libcgroup-tools
 
 sudo dnf install -y mono-core
 sudo dnf install -y mono-devel
