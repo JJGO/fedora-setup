@@ -69,6 +69,11 @@ sudo dnf install -y mono-devel
 sudo dnf install -y mono-locale-extras
 sudo dnf install -y libcurl-devel
 
+sudo dnf install -y clang
+sudo dnf install -y clang-libs
+sudo dnf install -y clang-devel
+sudo dnf install -y clang-analyzer
+
 ## EDITORS
 sudo dnf install -y vim
 sudo dnf install -y emacs
@@ -212,8 +217,8 @@ sudo chown root:root /usr/bin/peco
 sudo chmod 755 /usr/bin/peco
 cd ..
 rm -r peco*
-
-# Install veracrypt
+0
+0# Install veracrypt
 wget https://launchpad.net/veracrypt/trunk/1.19/+download/veracrypt-1.19-setup.tar.bz2
 tar -xvf veracrypt-*
 ./veracrypt-1.19-setup-console-x64
