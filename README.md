@@ -1,2 +1,2 @@
 # fedora-setup
-Scripts for Fedora 24 setup
+Scripts for Fedora 26 setup
