@@ -157,6 +157,7 @@ sudo dnf install -y powerline-fonts
 ### User GUI programs
 sudo dnf install -y albert                  # Like macOS alfred
 sudo dnf install -y calibre                 # Ebook management tool
+sudo dnf install -y copyq                   # clipboard manager
 sudo dnf install -y chromium                # Open Source Chrome browser
 sudo dnf install -y dropbox                 # Dropbox daemon
 sudo dnf install -y filezilla               # FTP client
@@ -176,7 +177,6 @@ sudo dnf install -y tor                     # Tor ring anomization
 sudo dnf install -y transmission            # Torrent client
 sudo dnf install -y unzip                   # unpack utility
 sudo dnf install -y vlc                     # Media player
-
 sudo dnf install -y okular                  # Pdf viewer
 sudo dnf install -y pdfshuffler             # Pdf Merger/Splitter
 
