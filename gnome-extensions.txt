@@ -1,21 +1,21 @@
-Removable Drive Menu
 Alternatetab
 Applications Menu
-Launch new instance
-Places Status Indicator
-Workspace Indicator
-Extensions
-Media player indicator
-Suspend Button
-Lock Keys
-Dash to Dock
-Impatience
-'Window Is Ready' Notification Remover
-Dynamic Panel Transparency
 Caffeine
 Clipboard Indicator
-Desk Changer
-gTile
+Dash to Dock
+Dynamic Panel Transparency
+Impatience
+Launch new instance
+Lock Keys
+Media player indicator
+Multi monitos add-on
+Places Status Indicator
+Pomodoro
+Quick Close in Overview
+Removable Drive Menu
+Suspend Button
 TopIcons Plus
 Volume Mixer
-Quick Close in Overview
+'Window Is Ready' Notification Remover
+Workrave
+Workspace Indicator
